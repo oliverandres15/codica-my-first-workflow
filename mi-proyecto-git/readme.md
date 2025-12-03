@@ -1,2 +1,2 @@
 bienvenido
-[![Estado de compilación](github.com)](github.com)
+[![Estado de compilación](github.com)](.github/workflows)
